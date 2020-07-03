@@ -2,9 +2,20 @@
     "cSpell.words": [
         "ansible",
         "ceph",
+        "cheatsheet",
+        "cheatsheets",
+        "client",
+        "cpus",
+        "erata",
+        "kube",
         "kubernetes",
         "qcow",
+        "tmux",
         "virsh",
         "virt"
+    ],
+    "cSpell.ignoreWords": [
+        "localadmin",
+        "zvols"
     ]
 }
